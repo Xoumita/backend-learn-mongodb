@@ -11,14 +11,14 @@ DELETE
 
 SESSION COOKIES
 
-### server
+server
 SESSION ⇒ server
 
 - creating session       
 - read session
 - delete session
 
-### client  
+client  
 COOKIES ⇒ frontend ⇒ browser ⇒ data bhej rahe hai ⇒ res
 
 - setup
